@@ -1,0 +1,492 @@
+
+body{
+font-family:Verdana;
+margin:0px;
+}
+img{
+margin-left:120px;
+height:25px;
+length:28px;
+}
+.headerMiddle input{
+width:45%;
+padding:8px 12px;
+}
+.topdiv {
+height:50px;
+border:1px solid black;
+}
+.buttons{
+border-radius:2px;
+padding:8px 10px;
+color:blue;
+background-color:#add8e6;
+border:1px solid blue;
+}
+.buttont{
+border-radius:3px;
+padding:8px 10px;
+color:white;
+background-color:#1E90FF;
+border:1px solid blue;
+}
+.container img{
+height:133px;
+width:136px;
+margin-left:20px;
+}
+.sideBar{
+width:15%;
+float:left;
+padding:5px 22px;
+border:1px solid grey;
+height:1800px;
+
+}
+.floatChild1{
+width: 17%;
+float: left;
+margin-left:20px;
+/*border:2px solid green;*/
+}  
+
+.floatChild2 {
+ width: 55%;
+float: left;
+/*border: 2px solid red;*/
+font-size:16px;
+padding:5px;
+margin-left:17px;
+font-family:Verdana;
+}  
+.containerM{
+width:12%;
+float: left;
+/*border: 2px solid yellow;*/
+}
+.incontainerside{
+font-size:12px;
+color:grey;
+}
+.containerside{
+float: left;  
+width:50%;
+padding:30px;
+/*border: 2px solid red;*/
+}
+.containerright{
+float:left;
+width:15%;
+height:250px;
+border:2px solid red;
+}
+.o1,.o2,.o3,.o6,.o7,.o8,.o11{
+margin-left:90px;
+padding:10px;
+font-size:12px;
+color:grey;
+}
+.o4,.o9,.o10{
+margin-left:125px;
+padding:10px;
+font-size:12px;
+color:grey;
+cursor:pointer;
+}
+.o5{
+margin-left:125px;
+padding:12px;
+font-size:12px;
+}
+.teamBox p{
+font-size:12px;
+margin-left:97px;
+padding:1px;
+}
+.button1{
+border-radius:35%;
+cursor:pointer;
+border:none;
+padding:5px 10px;
+margin:4px 8px;
+color:grey;
+}
+.submitButtons1{
+padding :9px;
+display:inline-block;
+border-radius:42%;
+margin-left:15px;
+border:none;
+background-color:#FF8C00;
+cursor:pointer;
+margin-top:20px;
+color:white;
+}
+.submitButtons2{
+cursor:pointer;
+padding :15px;
+display:inline-block;
+border-radius:40%;
+margin-left:15px;
+border:none;
+color:grey;
+}
+.bottn{
+padding:12px;
+margin-left:90px;
+}
+.bottn button{
+background-color:#1E90FF;
+font-size:11px;
+color:white;
+border:none;
+padding:8px;
+border-radius:3px;
+}
+.lang{
+font-size:10px;
+margin-left:120px;
+color:grey;
+}
+.middle{
+width:10%;
+}
+.pre1{
+font-size:16px;
+}
+.pre3{
+font-size:13px;
+color:grey;
+}
+.newBox{
+border: 1px solid grey;
+border-radius:5px;
+width:95%;
+}
+.div4{
+float:left;
+width:23%;
+margin-left:20px;
+/*border:1px solid red;*/
+}
+.newBox2{
+float:left;
+width:85%;
+font-size:13px;
+border-radius:7px;
+border: 1px solid grey;
+}
+.maindiv4{
+float:left;
+width:81%;
+/*border:2px solid blue;*/
+height:230px;
+}
+.div4{
+font-family:verdana;
+font-size:18px;
+}
+.div5{
+font-family:verdana;
+font-size:17px;
+}
+.newBox3{
+border-radius:5px;
+float:left;
+width:17%;
+font-size:13px;
+padding:17px;
+border: 1px solid grey;
+}
+.newBox4{
+border-radius:5px;
+float:left;
+width:19%;
+font-size:13px;
+padding:17px;
+margin-left:23px;
+margin-right:23px;
+border: 1px solid grey;
+}
+.newBox5{
+border-radius:5px;
+float:left;
+width:19%;
+font-size:13px;
+padding:15px;
+border: 1px solid grey;
+}
+.newBox21{
+font-family:verdana;
+font-size:18px;
+padding:15px;
+}
+.pre4i,.pre2i,.pre3i,.pre5i,.pre6i{
+font-family:arial;
+font-size:11px;
+}
+.pre2o{
+font-family:arial;
+font-size:13px;
+}
+.secondLast{
+width:21%;
+float:left;
+height:999px;
+/* border:1px solid black;*/
+}
+.sideDiv
+{
+float:left;
+width:57%;
+/*border:1px solid black;*/
+top-margin:50px;
+}
+.topTags{
+padding:20px;
+font-size:18px;
+/*border:1px solid blue;*/
+top-margin:10px;
+float:left;
+}
+.topboxLast{
+float:left;
+width:95%;
+height:284px;
+border:1px solid black;
+}
+.coco{
+font-size:14px;
+font-style:verdana;
+padding:12px;
+}
+.pre1{
+font-family:arial;
+}
+.pre2{
+font-family:arial;
+font-size:13px;
+color:grey;
+}
+.teamBox img{
+width:100px;
+height:100px;
+}
+.sideDiv2
+{
+width:57%;
+height:62px;
+float:left;
+/* border:1px solid yellow;*/
+}
+.view{
+font-size:12px;
+padding:7px;
+}
+.topPosts{
+top-margin:10px;
+font-size:20px;
+font-family:arial;
+padding:7px;
+/* border:1px solid red;*/
+}
+.coco button{
+border:none;
+cursor:pointer;
+color:#1E90FF;
+}
+.pre6i button{
+border:none;
+cursor:pointer;
+color:#1E90FF;
+}
+.pre4i button{
+border:none;
+cursor:pointer;
+color:#1E90FF;
+}
+.pre3i button{
+border:none;
+cursor:pointer;
+color:#1E90FF;
+}
+.pre2i  button{
+border:none;
+cursor:pointer;
+color:#1E90FF;
+}
+.pre5i button{
+border:none;
+cursor:pointer;
+color:#1E90FF;
+}
+.postContent
+{
+float:left;
+/*border:2px solid orange;*/
+width:95%;
+padding:8px;
+}
+.floatChild1{
+font-family:Arial;
+font-size:20px;
+}
+.pre5{
+font-size:13px;
+font-family:arial;
+}
+.pre6{
+font-size:12px;
+font-family:arial;
+}
+.content{
+float:left;
+border:1px solid grey;
+padding:15px;
+width:94%;
+}
+.ques1{
+padding:10px;
+font-color:blue;
+}
+.ques1 button{
+border:none;
+color:white;
+background-color:#3cb371;
+font-size:15px;
+width:40px;
+}
+.coco1{
+font-size:17px;
+margin-left:22em;
+position:absolute;
+right:180px;
+}
+.ques13{
+font-size:16px;
+font-family:arial;
+color:blue;
+cursor:pointer;
+}
+.ques14{
+font-size:11px;
+color:grey;
+position:absolute;
+right:200px;
+}
+.qS{
+top-margin:10px;
+font-size:18px;
+width:80%;
+margin-left:1px;
+/*border:2px solid yellow;*/
+}
+.lastOne{
+border:1px solid grey;
+padding:20px;
+width:94%;
+}
+.lastOnei{
+padding:8px;
+}
+.qlast{
+font-size:16px;
+font-family:arial;
+color:blue;
+cursor:pointer;
+}
+.ques13{
+padding:10px;
+}
+.containerside2{
+font-size:32px;
+}
+.containerside2 button{
+position:absolute;
+right:10%;
+width:90px;
+height:30px;
+top:10%;
+}
+.pre5 button{
+height:24px;
+border:none;
+color:white;
+background-color:black;
+border-radius:10%;
+font-size:12px;
+}
+.num{
+font-size:19px;
+}
+.about{
+font-size:19px;
+}
+.topdiv{
+position:relative;
+width:100%;
+}
+.secQuest{
+padding:25px;
+}
+.small{
+color:grey;
+font-size:11px;
+margin-left:60px;
+}
+.small2{
+color:grey;
+font-size:11px;
+margin-left:650px;
+}
+.footer{
+width:100%;
+border:1px solid grey;
+}
+.last{
+float:left;
+width:100%;
+height:320px;
+background-color:#1a2421;
+}
+.null2{
+width:13%;
+height:240px;
+float:left;
+}
+.box1{
+color:grey;
+font-size:12px;
+padding:25px;
+float:left;
+/*border:2px solid green;*/
+padding:32px;
+cursor:pointer;
+}
+.box1i{
+/*border:2px solid blue;*/
+color:grey;
+font-size:12px;
+}
+.a1{
+padding:6px;
+}
+.combined{
+font-weight:bold;
+}
+.boxpi{
+/*border:2px solid blue;*/
+color:grey;
+font-size:10px;
+padding:30px;
+}
+.boxpy{
+color:grey;
+font-size:10px;
+margin-top:135px;
+}
+.jh{
+float:left;
+width:100%;
+height:30px;
+}
